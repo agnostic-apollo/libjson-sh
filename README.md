@@ -1,5 +1,7 @@
 # libjson-sh
 
+This library was forked from [jeganathgt/libjson-sh](https://github.com/jeganathgt/libjson-sh).
+
 This is linux shell based json library, by which we can construct complete json object within the shell without the need for compilation.
 
 Since this is linux shell based library, it can be easily portable across all linux latforms.
